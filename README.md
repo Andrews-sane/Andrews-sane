@@ -6,5 +6,12 @@ Here's a curated list of projects I've completed as part of my cybersecurity lea
 - Setting Up a Virtual Home Lab (on macOS and Windows)
 ### Identity & Access Security
 - Active Directory Deployment & Hardening – Secure domain controller with baseline GPOs
-### Malware & Exploit Analysis
-- 
+### AWS-development	
+- Configuring and hardening Cloud console in AWS
+### Tools & Skills
+- VirtualBox, VMware, AWS Free Tier
+- Wireshark, Nmap, Nessus, Nikto, sqlmap
+- Wazuh, Suricata, Elastic Stack, Splunk
+- Kali Linux, Windows Server, Ubuntu, pfSense
+- Git, GitHub, Markdown documentation
+
