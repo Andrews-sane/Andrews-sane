@@ -5,9 +5,9 @@ Here's a curated list of projects I've completed as part of my cybersecurity lea
 ###  Lab Environments
 - Setting Up a Virtual Home Lab (on macOS and Windows, Linux, pfSense, Security Onion) [View project](https://github.com/Andrews-sane/Setting-up-a-Multi-VM-Cybersecurity-Lab)
 ### Identity & Access Security
-- Active Directory Deployment & Hardening – Secure domain controller with baseline GPOs[View project](https://github.com/Andrews-sane/Active-Directory-Simulation-Cybertech-Solutions/blob/main/README.md)
+- Active Directory Deployment & Hardening – Secure domain controller with baseline GPOs [View project](https://github.com/Andrews-sane/Active-Directory-Simulation-Cybertech-Solutions/blob/main/README.md)
 ### AWS-development	
-- Configuring and hardening Cloud console in AWS[View project](https://github.com/Andrews-sane/-AWS-IAM-Cloud-Security-Project-Documentation)
+- Configuring and hardening Cloud console in AWS [View project](https://github.com/Andrews-sane/-AWS-IAM-Cloud-Security-Project-Documentation)
 ### Tools & Skills
 - VirtualBox, VMware, AWS Free Tier
 - Wireshark, Nmap, Nessus, Nikto, sqlmap
