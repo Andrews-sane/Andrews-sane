@@ -5,7 +5,7 @@ Here's a curated list of projects I've completed as part of my cybersecurity lea
 ###  Lab Environments
 - Setting Up a Virtual Home Lab (on macOS and Windows, Linux, pfSense, Security Onion)
 ### Identity & Access Security
-- Active Directory Deployment & Hardening – Secure domain controller with baseline GPOs
+- [Active Directory Deployment & Hardening – Secure domain controller with baseline GPOs](https://github.com/Andrews-sane/Active-Directory-Simulation-Cybertech-Solutions/blob/main/README.md)
 ### AWS-development	
 - Configuring and hardening Cloud console in AWS
 ### Tools & Skills
